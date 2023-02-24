@@ -199,7 +199,7 @@ itemsContents_PackageDescriptions = [
     ], [
         "A free and open source, cross-platform, libmpv based multimedia player",
         "Simple GTK+ frontend for mpv",
-        "Open source media player built with Qt/QML and libmpv.",
+        "Open source media player built with Qt/QML and libmpv",
         "Very versatile media player from the KDE project",
         "Media player with built-in codecs that can play virtually all video and audio formats",
         "Media player (audio and video) from the GNOME project",
